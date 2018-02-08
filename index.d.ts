@@ -1,5 +1,3 @@
-export as namespace CSS;
-
 export interface StandardProperties<TLength = string | number> {
   alignContent?: AlignContentProperty;
   alignItems?: AlignItemsProperty;
