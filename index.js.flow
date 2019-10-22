@@ -4548,7 +4548,7 @@ export type SvgAttributes =
   | "[z]"
   | "[zoomAndPan]";
 
-export type Globals = "-moz-initial" | "inherit" | "initial" | "revert" | "unset";
+export type Globals = "-moz-initial" | "inherit" | "initial" | "revert" | "unset" | null;
 
 type GlobalsString = Globals | string;
 
