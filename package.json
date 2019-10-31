@@ -1,5 +1,5 @@
 {
-  "name": "csstype",
+  "name": "@rtsao/csstype",
   "version": "2.6.5-forked.0",
   "main": "",
   "types": "index.d.ts",
